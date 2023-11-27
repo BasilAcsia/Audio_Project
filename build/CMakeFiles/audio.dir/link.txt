@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/audio.dir/main.cpp.o -o audio  -lasound 
