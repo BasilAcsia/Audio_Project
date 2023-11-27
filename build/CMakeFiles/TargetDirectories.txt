@@ -1,0 +1,3 @@
+/home/basil/Audio/build/CMakeFiles/audio.dir
+/home/basil/Audio/build/CMakeFiles/edit_cache.dir
+/home/basil/Audio/build/CMakeFiles/rebuild_cache.dir
