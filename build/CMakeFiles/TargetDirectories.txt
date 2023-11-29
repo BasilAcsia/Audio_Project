@@ -1,0 +1,3 @@
+/home/basil/test/build/CMakeFiles/test.dir
+/home/basil/test/build/CMakeFiles/edit_cache.dir
+/home/basil/test/build/CMakeFiles/rebuild_cache.dir
